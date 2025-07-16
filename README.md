@@ -1,5 +1,5 @@
 # Digital-Wallet-Application
-28-Digital Wallet Application
+Digital Wallet Application
 
 ## Overview
 
