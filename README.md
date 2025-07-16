@@ -5,6 +5,11 @@
 
 Este é um aplicativo GUI que funciona como uma carteira digital (ou carteira eletrônica). Os usuários podem ver quanto dinheiro ($) possuem, quantos cartões possuem e acompanhar suas anotações importantes, como uma carteira tradicional. Os usuários podem adicionar/remover cartões (débito e crédito) e anotações. Ao criar cartões, devem especificar entre crédito/débito e o limite desses cartões. Os usuários podem fazer pagamentos com seus cartões, onde as informações são exibidas na tela caso haja uma mensagem (limite de 50% atingido, fundos insuficientes). Os usuários podem salvar/carregar uma carteira existente.
 
+
+## Funcionalidade implementadas
+Account Linking and Management:
+"A implementação da funcionalidade de Account Linking and Management, permitindo ao usuário vincular contas bancárias e cartões à carteira digital e gerenciar as contas vinculadas."
+
 ## Demo
 -------------------------
 
