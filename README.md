@@ -7,8 +7,23 @@ Este é um aplicativo GUI que funciona como uma carteira digital (ou carteira el
 
 
 ## Funcionalidade implementadas
-Account Linking and Management:
+• Account Linking and Management:
 "A implementação da funcionalidade de Account Linking and Management, permitindo ao usuário vincular contas bancárias e cartões à carteira digital e gerenciar as contas vinculadas."
+
+• Processamento Seguro de Pagamentos: 
+"Garantir transações seguras para pagamentos."
+
+• Histórico de Transações: 
+"Visualizar transações anteriores e histórico de pagamentos."
+
+• Transferências Ponto a Ponto: 
+"Habilitar transferências entre contas"
+
+• Recursos de segurança: 
+"Implementação de recursos de segurança como autenticação PIN."
+
+• Notificações e alertas: 
+"Alertas para transações e atividades da conta."
 
 ## Demo
 -------------------------
